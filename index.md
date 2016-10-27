@@ -1,5 +1,5 @@
 ---
-title: Welcome
+title: Posts
 layout: default
 ---
 
@@ -25,11 +25,5 @@ Some inline code `to_html` and a preformatted code block:
 Kramdown::Document.new( 'Hello Markdown!' ).to_html
 ```
 
-Or try
 
-# Heading 1
-
-## Heading 2
-
-### Heading 3
 
