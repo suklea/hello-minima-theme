@@ -1,5 +1,5 @@
 ---
-title: Index
+title: Blog
 layout: default
 ---
 
