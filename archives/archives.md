@@ -5,4 +5,4 @@ layout: default
 
 # Archives
 
-1. [2016 posts](2016_posts.md)
+1. [2016 posts](2016_posts.html)
